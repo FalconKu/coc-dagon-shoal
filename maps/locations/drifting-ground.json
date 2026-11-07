@@ -1,0 +1,18 @@
+{
+  "id": "drifting_ground",
+  "name": "漂流海域",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "charter_dock",
+    "black_shoal"
+  ],
+  "content": "北纬 12–14°、西经 167–169°。表面无异样，三处异常：测深每每隔一段在四十英尺触底，触到有弹性会下陷的东西；夜里海面静得没有涌浪声；无风也有退潮滩涂的腥味，持续十几分钟。罗盘偏 2–3 度，方向不固定。",
+  "keywords": [
+    "漂流",
+    "海域",
+    "测深",
+    "无风",
+    "罗盘"
+  ],
+  "tier": "background"
+}

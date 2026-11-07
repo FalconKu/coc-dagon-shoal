@@ -1,0 +1,18 @@
+{
+  "id": "customs",
+  "name": "旧金山海关大楼",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "shipping_office",
+    "geographic"
+  ],
+  "content": "蒙哥马利街石砌四层。海事登记科存「洛厄尔号」完整档案：1 月 4 日自 Liverpool 出发，载煤，船员二十三人，2 月 17 日被「猎鹰号」拦俘。3 月 12 日释放九名俘虏，理由淡水不足，此后再无记录。",
+  "keywords": [
+    "海关",
+    "登记",
+    "洛厄尔号",
+    "俘虏",
+    "档案"
+  ],
+  "tier": "background"
+}

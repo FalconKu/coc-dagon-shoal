@@ -1,0 +1,18 @@
+{
+  "id": "shipping_office",
+  "name": "麦克雷船代事务所",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "charter_dock",
+    "customs"
+  ],
+  "content": "杰斐逊街 210 号二楼，煤油混着鱼腥。墙上十七张海图。抽屉里手绘海图标四个红叉，围成不到六十海里的范围；旧账上三行被划掉，旁注「未返」。",
+  "keywords": [
+    "船代",
+    "海图",
+    "红叉",
+    "租船",
+    "账本"
+  ],
+  "tier": "background"
+}

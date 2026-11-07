@@ -1,0 +1,18 @@
+{
+  "id": "anchor_bell",
+  "name": "「锚链与钟」酒馆",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "charter_dock",
+    "briggs_rooms"
+  ],
+  "content": "内河码头 88 号，门楣挂着摘掉钟舌的沉船铜钟。五美分一轮酒换一条传闻，五十美分换一个愿作证的人。后间专留「圣佩德罗号」船员的桌子，桌面刻着四个日期和四个叉，最近一个是 3 月 21 日。",
+  "keywords": [
+    "酒馆",
+    "码头",
+    "水手",
+    "传闻",
+    "乔纳斯"
+  ],
+  "tier": "background"
+}

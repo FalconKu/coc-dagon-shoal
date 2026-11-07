@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "pacific-shoal-route",
+  "name": "旧金山—太平洋异滩",
+  "mode": "graph",
+  "worlds": [
+    "pacific_shoal"
+  ],
+  "default": true,
+  "nodes": [
+    {
+      "location_ref": "briggs_rooms",
+      "x": -28,
+      "y": 18
+    },
+    {
+      "location_ref": "hospital",
+      "x": -10,
+      "y": 26
+    },
+    {
+      "location_ref": "anchor_bell",
+      "x": 14,
+      "y": 20
+    },
+    {
+      "location_ref": "charter_dock",
+      "x": 26,
+      "y": 14
+    },
+    {
+      "location_ref": "shipping_office",
+      "x": 20,
+      "y": 6
+    },
+    {
+      "location_ref": "customs",
+      "x": 6,
+      "y": 2
+    },
+    {
+      "location_ref": "mission",
+      "x": -16,
+      "y": 4
+    },
+    {
+      "location_ref": "geographic",
+      "x": -4,
+      "y": 10
+    },
+    {
+      "location_ref": "drifting_ground",
+      "x": 30,
+      "y": -30
+    },
+    {
+      "location_ref": "black_shoal",
+      "x": 4,
+      "y": -38
+    },
+    {
+      "location_ref": "monolith",
+      "x": -14,
+      "y": -42
+    },
+    {
+      "location_ref": "rift",
+      "x": 18,
+      "y": -42
+    }
+  ],
+  "default_view": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

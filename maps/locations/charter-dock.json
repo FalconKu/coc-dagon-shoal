@@ -1,0 +1,18 @@
+{
+  "id": "charter_dock",
+  "name": "租船码头",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "anchor_bell",
+    "shipping_office"
+  ],
+  "content": "渔人码头 5 号泊位。安妮·B号（蒸汽渔船，八节，六人十天补给）、海燕号（帆船，吃水浅）、老姑娘号（前走私船，舱底有暗格）。可购测深锤、六分仪、煤油灯、撬棍、照相干板。旧金山到目标海域单程十九天，中途无补给港。",
+  "keywords": [
+    "码头",
+    "租船",
+    "补给",
+    "出海",
+    "装备"
+  ],
+  "tier": "background"
+}

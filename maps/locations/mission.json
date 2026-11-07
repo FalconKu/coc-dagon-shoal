@@ -1,0 +1,18 @@
+{
+  "id": "mission",
+  "name": "多洛雷斯教堂",
+  "world_id": "pacific_shoal",
+  "connected_to": [
+    "briggs_rooms",
+    "geographic"
+  ],
+  "content": "多洛雷斯街 1818 年老教堂，后墙裂缝从屋顶到地基，灰浆草草填上。侧廊弥撒书夹着祈祷卡，背面铅笔写「12-13-168」。地下纪念龛供四十七块溺亡船员名牌，最近三块后刻着倒立的三叉戟记号。",
+  "keywords": [
+    "教堂",
+    "神父",
+    "弥撒书",
+    "祈祷卡",
+    "名牌"
+  ],
+  "tier": "background"
+}
