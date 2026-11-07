@@ -3,21 +3,38 @@
   "content_schema_version": 2,
   "locale_schema_version": 1,
   "default_locale": "zh-CN",
-  "supported_locales": ["zh-CN"],
+  "supported_locales": [
+    "zh-CN"
+  ],
   "id": "coc-dagon-shoal",
   "name": "深潮档案：太平洋异滩",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "《克苏鲁的呼唤》7 版资源包：改编自 H. P. 洛夫克拉夫特 1919 年公版短篇《大衮》。含 1918 年旧金山调查舞台、太平洋漂流海域、从海底升起的黑色泥滩与独石柱，以及可复用的水族文字与深潮神话条目。",
+  "compatible_rulesets": [
+    "coc7"
+  ],
   "plugin_type": "content-pack",
   "license": "CC-BY-SA-4.0",
   "config_schema": "config.schema.json",
-  "capabilities": ["content.world"],
-  "permissions": ["content.read"],
+  "capabilities": [
+    "content.world"
+  ],
+  "permissions": [
+    "content.read"
+  ],
   "contributes": {
-    "world_templates": ["content/worlds/*.json"],
-    "lorebooks": ["content/lorebooks/*.json"],
-    "map_definitions": ["maps/definitions/*.json"],
-    "map_locations": ["maps/locations/*.json"]
+    "world_templates": [
+      "content/worlds/*.json"
+    ],
+    "lorebooks": [
+      "content/lorebooks/*.json"
+    ],
+    "map_definitions": [
+      "maps/definitions/*.json"
+    ],
+    "map_locations": [
+      "maps/locations/*.json"
+    ]
   },
   "docs": "README.md"
 }
